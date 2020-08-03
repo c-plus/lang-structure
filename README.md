@@ -1,4 +1,4 @@
-# Background
+# Background #
 I have an great interest in programming and I became a new programmer. 
 But programming is too unfriendly to an old guy.
 So I had a idea to create a new programming language for new programmer.
