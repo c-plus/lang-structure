@@ -26,7 +26,7 @@ The following contents is in Chinese. I will translate it into English as soon a
   例：  
     `u8 _X[] = 5;  //在堆上分配可变变量_X；<br/>  
     u8 _Y[] = {1,2,3};  //在堆上分配可变长度可修改数组_Y[3]；<br/>      
-    u8 _Z[3] = {1,2,3};  //在栈上分配可修改数组_Z[3]，长度不可变；<br/> `  
+    u8 _Z[3] = {1,2,3};  //在栈上分配可修改数组_Z[3]，长度不可变；<br/>  
 
 2.基本类型  
   与rust差不多。  
