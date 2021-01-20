@@ -706,7 +706,6 @@ u8 cacul_area(&Shape){...}  //多态函数
 ```
 
 ## 8. 泛型
-
 泛型可以实现静态多态。
 
 ### 8.1 直接泛型
@@ -741,7 +740,6 @@ XStack<Circle, Triangle><u16, 30> xs = {...};  //t1, t2是Circle类型，t3是Tr
 ```
 
 ## 9. 宏
-
 ### 9.1 标识宏
 
 set Tuesday 2;
