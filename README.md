@@ -1,4 +1,4 @@
-# C+lang frame 0.1
+# C+ lang frame 0.1
 
 Overview：  
 C+ lang is for programming learning. The goal is simple, safe, easy to learn and use.
@@ -455,6 +455,7 @@ main(){
 
 与c语言相同。
 
+
 ### 5.2 while 和 do while语句
 
 与c语言相同。
@@ -812,7 +813,7 @@ set cacu!(u8 a, ty X, u8 b) { a X b}  //cacu!(3, +, 2)展开就是{3 + 2}
 
 ------
 
-以下未整理。
+The following are not sorted out.
 
 例：
 
